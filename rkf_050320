@@ -73,7 +73,6 @@ function rkf(a,b,alpha,tol,hmax,hmin)
       end
       
       title=cell(1,6);
-      title=["t","real", "calcultated", "h", "r"," error"];
-      FINAL=[title;final]
-     
-      
+      title=["t","real", "calcultated", "h", "r"," error"]
+      final
+   
